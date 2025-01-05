@@ -1,0 +1,46 @@
+﻿@page
+@model ContactManager.Pages.Companies.AddCompanyModel
+
+@{
+    ViewData["Title"] = "Add Company";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" class="form-horizontal" role="form">
+    <div class="form-group">
+        <label asp-for="Company.Name" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Company.Name" class="form-control" />
+            <span asp-validation-for="Company.Name" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Company.Address" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Company.Address" class="form-control" />
+            <span asp-validation-for="Company.Address" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Company.Zip" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Company.Zip" class="form-control" />
+            <span asp-validation-for="Company.Zip" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Company.City" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Company.City" class="form-control" />
+            <span asp-validation-for="Company.City" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <button type="submit" class="btn btn-primary">Add Company</button>
+        </div>
+    </div>
+</form>
+<div asp-validation-summary="All" class="validation-summary-valid"></div>
+

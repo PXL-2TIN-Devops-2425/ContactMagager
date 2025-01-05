@@ -1,0 +1,55 @@
+﻿@page
+@model ContactManager.Pages.Contacts.AddContactModel
+<h2>Add Contact</h2>
+
+@{
+    ViewData["Title"] = "Add Contact";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" class="form-horizontal" role="form">
+   <div class="form-group">
+        <label asp-for="Contact.CompanyId" class="col-md-2 control-label">Company</label>
+        <div class="col-md-5">
+            <select asp-for="Contact.CompanyId" asp-items="Model.CompanySelectListItems" class="form-control"> </select>
+            <span asp-validation-for="Contact.CompanyId" class="text-danger"></span>
+        </div>
+
+   </div>
+   <div class="form-group">
+        <label asp-for="Contact.FirstName" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Contact.FirstName" class="form-control" />
+            <span asp-validation-for="Contact.FirstName" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Contact.Name" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Contact.Name" class="form-control" />
+            <span asp-validation-for="Contact.Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Contact.Email" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Contact.Email" class="form-control" />
+            <span asp-validation-for="Contact.Email" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label asp-for="Contact.Phone" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Contact.Phone" class="form-control" />
+            <span asp-validation-for="Contact.Phone" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <button type="submit" class="btn btn-primary">Add Contact</button>
+        </div>
+    </div>
+</form>
+<div asp-validation-summary="All" class="validation-summary-valid"></div>

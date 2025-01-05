@@ -1,0 +1,16 @@
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\bin\Debug\net8.0\HealthHub.AppLogic.deps.json
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\bin\Debug\net8.0\HealthHub.AppLogic.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\bin\Debug\net8.0\HealthHub.AppLogic.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\bin\Debug\net8.0\HealthHub.Domain.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\bin\Debug\net8.0\HealthHub.Domain.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.csproj.AssemblyReference.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.AssemblyInfoInputs.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.AssemblyInfo.cs
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.csproj.CoreCompileInputs.cache
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.sourcelink.json
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHu.AC86CEB2.Up2Date
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\refint\HealthHub.AppLogic.dll
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\HealthHub.AppLogic.pdb
+C:\Users\Josephine\Documents\2dejaar\DotNet\DotNet\Guts-DotNetAdvanced-24-25\Guts-DotNetAdvanced-24-25\3_API-RazorPages\HealthHub\HealthHub.AppLogic\obj\Debug\net8.0\ref\HealthHub.AppLogic.dll
